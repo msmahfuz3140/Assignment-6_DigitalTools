@@ -19,7 +19,7 @@ const EmptyCart = () => {
 
                 {/* Text Content */}
                 <h2 className="text-2xl font-bold text-gray-900 mb-2">
-                    Your cart is empty
+                    Your cart is Empty
                 </h2>
                 <p className="text-gray-500 mb-8 leading-relaxed">
                     Looks like you haven't added anything to your cart yet. Explore our top-rated AI tools and start creating!
