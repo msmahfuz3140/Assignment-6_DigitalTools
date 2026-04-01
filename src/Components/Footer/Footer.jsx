@@ -13,7 +13,7 @@ const Footer = () => {
 
                     {/* Logo & Description */}
                     <div className="lg:col-span-2">
-                        <h2 className="text-3xl font-bold mb-6">DigiTools</h2>
+                        <h2 className="text-3xl font-bold mb-6">DigitalTools</h2>
                         <p className="text-gray-400 text-lg leading-relaxed max-w-sm">
                             Premium digital tools for creators, professionals, and businesses.
                             Work smarter with our suite of powerful tools.
