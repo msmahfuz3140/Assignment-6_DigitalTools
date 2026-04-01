@@ -8,13 +8,13 @@
 
 ## 🌐 Live Demo
 
-🔗 https://digitoolsbd.netlify.app/
+🔗 as-6-digital-tools.netlify.app
 
 ---
 
 ## 💻 GitHub Repository
 
-📂 https://github.com/hridoy-ahmmad/DigitalTools.git
+📂 https://github.com/msmahfuz3140/Assignment-6_DigitalTools
 
 ---
 
